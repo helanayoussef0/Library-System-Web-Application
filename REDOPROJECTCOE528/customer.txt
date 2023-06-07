@@ -1,0 +1,6 @@
+admin,admin,0
+David,Pam,0
+god,me,2000
+Renolds,pass123,0
+jimmy,joe,1500
+Lee,kimdiky,300
